@@ -1,0 +1,13 @@
+#######################
+#1.Variable
+#2.data type
+#3.condition
+#4.loop
+#5.list 
+#6.Dictionary
+#7.tuple
+#8.set
+#9.function
+
+
+#######################
